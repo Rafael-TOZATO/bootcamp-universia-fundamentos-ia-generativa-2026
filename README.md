@@ -23,3 +23,7 @@ This portfolio contains 16 completed certificates covering key topics related to
 - Additional professional development modules
 
 ## Repository Structure
+
+## 📌 Governança e Rastreabilidade
+- **Status do Repositório**: Alinhado com as diretrizes de portfólio técnico e validação de competências.
+- **Trilha Executada**: Consolidação de certificados e projetos práticos em Inteligência Artificial Generativa e transformação digital.
