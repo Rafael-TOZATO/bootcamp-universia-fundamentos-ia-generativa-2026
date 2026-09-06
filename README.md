@@ -1,5 +1,7 @@
 # Universia Generative AI Fundamentals Bootcamp 2026
 
+![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
+
 ## Professional Learning Portfolio
 
 Repository documenting the completion of the Universia Generative AI Fundamentals Bootcamp 2026, including certificates, artificial intelligence studies and professional development activities.
