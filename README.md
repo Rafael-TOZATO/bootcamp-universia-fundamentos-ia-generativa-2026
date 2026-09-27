@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Dashboard_IA_Banner.png" alt="Dashboard IA Banner" width="100%">
+  <img src="banner-bootcamp-ia-generativa-universia-2026.jpg" alt="Bootcamp Universia Fundamentos de IA Generativa 2026 Banner" width="100%">
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@
 
 ## Professional Learning Portfolio
 
-Repository documenting the completion of the Universia Generative AI Fundamentals Bootcamp 2026, including certificates, artificial intelligence studies and professional modules[cite: 4].
+Repository documenting the completion of the Universia Generative AI Fundamentals Bootcamp 2026, including certificates, artificial intelligence studies and professional modules.
 
 ## Overview
 
-This portfolio contains 16 completed certificates covering key topics related to Artificial Intelligence, Generative AI, Prompt Engineering, Data Analysis, Project Management, and Digital Transformation[cite: 4].
+This portfolio contains 16 completed certificates covering key topics related to Artificial Intelligence, Generative AI, Prompt Engineering, Data Analysis, Project Management, and Digital Transformation.
 
 ## Certifications Completed
 
@@ -42,11 +42,21 @@ This portfolio contains 16 completed certificates covering key topics related to
 ## Repository Structure
 
 ## 🛠️ Governança e Rastreabilidade
-- **Status do Repositório:** Alinhado com as diretrizes de portfólio técnico e validação de competências[cite: 4].
-- **Trilha Executada:** Consolidação de certificados e projetos práticos em Inteligência Artificial Generativa e transformação digital[cite: 4].
+- **Status do Repositório:** Alinhado com as diretrizes de portfólio técnico e validação de competências.
+- **Trilha Executada:** Consolidação de certificados e projetos práticos em Inteligência Artificial Generativa e transformação digital.
 
 ---
 
-### Descrição para o Commit (com menos de 50 caracteres):
-```text
-docs: atualiza README.md com Dashboard_IA_Banner.png
+## Autor
+
+**Rafael Ornelas Tozato**
+
+Engenharia Química | Garantia da Qualidade | Governança 4.0
+
+### Contato
+
+- LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+- GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+- Portfólio PWA: [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+- DIO: [web.dio.me/users/ornelas_tozato](https://web.dio.me/users/ornelas_tozato)
