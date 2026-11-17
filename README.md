@@ -13,7 +13,7 @@
 # Universia Generative AI Fundamentals Bootcamp 2026
 
 > **AI Engineer | Especialista em Governança 4.0 e Qualidade | Engenheiro Químico**  
-> [Mauá, SP](mailto:ornelas.tozato@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaeltozato81) | [GitHub](https://github.com/Rafael-TOZATO) | [Portfólio PWA](https://tozato-dev-hub.vercel.app) | [Medium](https://medium.com/@ornelas.tozato)
+> [Mauá, SP](mailto:ornelas.tozato@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaeltozato81) | [GitHub](https://github.com/Rafael-TOZATO) | [Portfólio PWA](https://tozato-ai-core.vercel.app) | [Medium](https://medium.com/@ornelas.tozato)
 
 ![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
 
@@ -45,22 +45,25 @@ This portfolio contains 16 completed certificates covering key topics related to
 - **Status do Repositório:** Alinhado com as diretrizes de portfólio técnico e validação de competências.
 - **Trilha Executada:** Consolidação de certificados e projetos práticos em Inteligência Artificial Generativa e transformação digital.
 
----
-
 ## Autor
 
 **Rafael Ornelas Tozato**
 
 Engenharia Química | Garantia da Qualidade | Governança 4.0
 
----
+## 📬 CONTATOS E PERFIS
 
-## 📬 Contatos
+💻 **PROJETOS E PORTFÓLIOS**
+* Ecossistema de Aplicativos: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+* H-Folio Professional: [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
 
-- 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- 🌐 **Portfólio PWA (Dev Hub):** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-- 🌐 **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
-- 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
-- 📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
+🐙 **CÓDIGOS E REPOSITÓRIOS**
+* GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+
+✍️ **ARTIGOS E PUBLICAÇÕES**
+* Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* Comunidade DEV: [dev.to/rafaeltozato](https://dev.to/rafaeltozato)
+
+💼 **CONTATO**
+* LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+* E-mail: ornelas.tozato@gmail.com
